@@ -12,3 +12,5 @@ Participante 3:
 María Cristina Vergara Quinchia
 Cédula:1035232771
 Programa:Ingeniería de Sistemas
+
+Enlace vídeo entrega 2:https://www.youtube.com/watch?v=o0nRn_D6n24
