@@ -1,18 +1,3 @@
-Participante 1:
-Kevin Estrada del Valle 
-Cédula: 1036689216
-Programa:Ingeniería de Sistemas
+Este proyecto se enfoca en el desarrollo de un modelo de aprendizaje automático para predecir el puntaje promedio de estudiantes que presentarán las pruebas Saber PRO. Para ello, se trabajó con un conjunto de datos educativos extraído de la plataforma Kaggle, el cual contiene variables sociodemográficas, académicas y contextuales relevantes.
 
-Participante 2:
-Juan Andrés Rivera Arango 
-Cédula: 1037666069
-Programa:Ingeniería de Sistemas
-
-Participante 3:
-María Cristina Vergara Quinchia
-Cédula:1035232771
-Programa:Ingeniería de Sistemas
-
-Enlace vídeo entrega 2:https://www.youtube.com/watch?v=o0nRn_D6n24
-
-Enlace vídeo entrega final: https://youtu.be/77-RueuD7D0?si=rDFcYKZ-jEsydsLl  
+El modelo seleccionado fue CatBoost Classifier, el cual fue entrenado y validado con el objetivo de identificar patrones en los datos y realizar predicciones precisas sobre el desempeño esperado de los estudiantes.
